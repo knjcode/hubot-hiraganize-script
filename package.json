@@ -1,0 +1,22 @@
+{
+  "name": "hubot-hiraganize-script",
+  "version": "0.0.0",
+  "private": true,
+  "description": "hiraganize or katakanize messages",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/knjcode/hubot-hiraganize-script.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "hiragana",
+    "katakana"
+  ],
+  "author": "knjcode",
+  "bugs": {
+    "url": "https://github.com/knjcode/hubot-hiraganize-script/issues"
+  },
+  "homepage": "https://github.com/knjcode/hubot-hiraganize-script"
+}
